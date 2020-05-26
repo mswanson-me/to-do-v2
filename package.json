@@ -1,0 +1,26 @@
+{
+  "name": "to-do-v2",
+  "version": "1.0.0",
+  "description": "Upgraded to do list.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mswanson-me/to-do-v2.git"
+  },
+  "author": "Michael Swanson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mswanson-me/to-do-v2/issues"
+  },
+  "homepage": "https://github.com/mswanson-me/to-do-v2#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.9.16"
+  }
+}
